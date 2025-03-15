@@ -1,0 +1,4 @@
+WAP that uses an executor service to execute multiple Callable tasks.
+Each tasks should calculate and return the factorial of a number provided to it.
+Use Future objects to receive the results of the calculation.
+After all tasks are submitted, retrieve the result from the futures, print them, and ensure the executor service is shut down correctly.
