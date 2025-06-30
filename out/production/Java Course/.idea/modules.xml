@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01.FirstProgram/01.FirstProgram.iml" filepath="$PROJECT_DIR$/01.FirstProgram/01.FirstProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.patterns/02.patterns.iml" filepath="$PROJECT_DIR$/02.patterns/02.patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.subscribe/02.subscribe.iml" filepath="$PROJECT_DIR$/02.subscribe/02.subscribe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.Data Types-Variables-Input/03.Data Types-Variables-Input.iml" filepath="$PROJECT_DIR$/03.Data Types-Variables-Input/03.Data Types-Variables-Input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04. Operators  If-else Number Systems/04. Operators  If-else Number Systems.iml" filepath="$PROJECT_DIR$/04. Operators  If-else Number Systems/04. Operators  If-else Number Systems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.Method_Array_While Loop/05.Method_Array_While Loop.iml" filepath="$PROJECT_DIR$/05.Method_Array_While Loop/05.Method_Array_While Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_02_Challenge/05_02_Challenge.iml" filepath="$PROJECT_DIR$/05_02_Challenge/05_02_Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.Class_Objects/06.Class_Objects.iml" filepath="$PROJECT_DIR$/06.Class_Objects/06.Class_Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 ControlStatement_Math_String/07 ControlStatement_Math_String.iml" filepath="$PROJECT_DIR$/07 ControlStatement_Math_String/07 ControlStatement_Math_String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.Encapsulation_Inheritance/08.Encapsulation_Inheritance.iml" filepath="$PROJECT_DIR$/08.Encapsulation_Inheritance/08.Encapsulation_Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09.Abstraction_Polymorphism/09.Abstraction_Polymorphism.iml" filepath="$PROJECT_DIR$/09.Abstraction_Polymorphism/09.Abstraction_Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.Exception___FileHandling/10.Exception___FileHandling.iml" filepath="$PROJECT_DIR$/10.Exception___FileHandling/10.Exception___FileHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11. Collection_Generics/11. Collection_Generics.iml" filepath="$PROJECT_DIR$/11. Collection_Generics/11. Collection_Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12. Multithereading_ExecutorService/12. Multithereading_ExecutorService.iml" filepath="$PROJECT_DIR$/12. Multithereading_ExecutorService/12. Multithereading_ExecutorService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13. Functional_Programing/13. Functional_Programing.iml" filepath="$PROJECT_DIR$/13. Functional_Programing/13. Functional_Programing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges_50-100/Challenges_50-100.iml" filepath="$PROJECT_DIR$/Challenges_50-100/Challenges_50-100.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Course.iml" filepath="$PROJECT_DIR$/.idea/Java Course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberGueserGame/NumberGueserGame.iml" filepath="$PROJECT_DIR$/NumberGueserGame/NumberGueserGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Z100 Project/Z100 Project.iml" filepath="$PROJECT_DIR$/Z100 Project/Z100 Project.iml" />
+    </modules>
+  </component>
+</project>
